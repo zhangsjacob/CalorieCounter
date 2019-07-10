@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688936484780",
+    "firebase_url": "https://calorieapp-af2bf.firebaseio.com",
+    "project_id": "calorieapp-af2bf",
+    "storage_bucket": "calorieapp-af2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688936484780:android:9aa4b5c1cfca3ee3",
+        "android_client_info": {
+          "package_name": "com.example.CalorieTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688936484780-cf8a7kun39kmdau4q18ohts1qq4dlo4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhWI0cZvPj8_ge15O2ZwcxpqIjxL04IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688936484780-cf8a7kun39kmdau4q18ohts1qq4dlo4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
