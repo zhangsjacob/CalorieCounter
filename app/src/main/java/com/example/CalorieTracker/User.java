@@ -120,7 +120,7 @@ public class User {
         private int[] calories;
         private String MealID;
 
-        Meal(String name, int count){
+        Meal(String name, int count) {
             foodName[foodName.length-1] = name;
             calories[calories.length-1] = count;
         }
